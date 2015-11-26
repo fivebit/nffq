@@ -44,21 +44,6 @@ function load_file($file,$directory='base',$param=null){
 load_file("loader",'base');
 load_file('env','base');
 load_file('plugin');
-function test(){
-    var_dump("4i");
-}
-function test3(){
-    var_dump("sdf");
-}
-class T{
-    public static function g($arg){
-        var_dump("dsgfdsgd_________".$arg);
-    }
-}
-add_action("test","test",6);
-add_action("test","test3",4);
-add_action("test",array('T','g'),4);
-do_action("test","myqiong");
 function getMQ($name,$default=null){
     if(isset($GLOBALS[$name])){
         return $GLOBALS[$name];

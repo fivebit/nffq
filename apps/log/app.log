@@ -74,3 +74,35 @@
 [/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:23:04	5240112648534740795	init class:IndexController
 [/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:23:04	5240112648534740795	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
 [/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:23:05	5240112648534740795	request cost time:total: 101 ms, runstart: 6 ms, process_begin: 0 ms, process_end: 95 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:45:38	13885593569568487591	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:45:38	13885593569568487591	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:45:38	13885593569568487591	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:45:38	13885593569568487591	request cost time:total: 101 ms, runstart: 6 ms, process_begin: 0 ms, process_end: 95 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:45:40	13706953591185772940	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:45:40	13706953591185772940	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:45:40	13706953591185772940	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:45:40	13706953591185772940	request cost time:total: 99 ms, runstart: 5 ms, process_begin: 0 ms, process_end: 94 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:45:40	15997011459118091481	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:45:40	15997011459118091481	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:45:40	15997011459118091481	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:45:40	15997011459118091481	request cost time:total: 100 ms, runstart: 5 ms, process_begin: 0 ms, process_end: 95 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:45:40	5977103888970990489	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:45:40	5977103888970990489	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:45:40	5977103888970990489	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:45:40	5977103888970990489	request cost time:total: 103 ms, runstart: 5 ms, process_begin: 0 ms, process_end: 98 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:45:40	5194248088302772362	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:45:40	5194248088302772362	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:45:40	5194248088302772362	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:45:40	5194248088302772362	request cost time:total: 100 ms, runstart: 6 ms, process_begin: 0 ms, process_end: 94 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:45:41	2537202678756261414	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:45:41	2537202678756261414	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:45:41	2537202678756261414	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:45:41	2537202678756261414	request cost time:total: 100 ms, runstart: 5 ms, process_begin: 0 ms, process_end: 95 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:54:52	17103861569157382020	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:54:52	17103861569157382020	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:54:52	17103861569157382020	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:54:52	17103861569157382020	request cost time:total: 100 ms, runstart: 6 ms, process_begin: 0 ms, process_end: 94 ms, run_end: 0 ms, __spare_time__: 0 ms
+[/home/work/webroot/nffq/system/base/app.php:244]	NOTICE	11-26 20:54:56	5344636863970745020	init system begin
+[/home/work/webroot/nffq/system/base/app.php:136]	NOTICE	11-26 20:54:56	5344636863970745020	init class:IndexController
+[/home/work/webroot/nffq/system/base/CController.php:105]	NOTICE	11-26 20:54:56	5344636863970745020	dev_app_info get sql:select * from dev_app_info where  app_id = '3' limit 1
+[/home/work/webroot/nffq/system/base/app.php:121]	NOTICE	11-26 20:54:56	5344636863970745020	request cost time:total: 100 ms, runstart: 6 ms, process_begin: 0 ms, process_end: 94 ms, run_end: 0 ms, __spare_time__: 0 ms
